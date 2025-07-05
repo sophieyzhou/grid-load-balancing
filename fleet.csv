@@ -1,0 +1,7 @@
+Generator,Fuel Type,Heat Rate (MMBtu/MWh),Variable O&M ($/MWh),Maximum Capacity (MW),Fuel Cost ($/MMBtu),CO2 Emissions Rate (tons/MWh)
+C,Coal,10.745,2,1228,1.9,1.15
+NG,Natural gas,7.721,2.8,20304,3.35,0.485
+Nuc,Nuclear,10.452,19.34,2281,5.37,0
+Sol,Solar,0,0,16897,0,0
+Hydr,Hydro,0,0,8288,0,0
+Wnd,Wind,0,0,5506,0,0
